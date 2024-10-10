@@ -4,14 +4,14 @@ This repository contains code for running simulations of loop-extrusion in an *E
 
 The repository is structured as follows:
 
-###looplib bacterial 
+### looplib bacterial 
 1D loop extrusion code forked from Anton Goloborodko's [github.com/open2c/looplib](https://github.com/open2c/looplib)
 
 Edits include adding periodic boundary conditions for circular bacterial chromosomes, as well as implementing loop-extruder bypassing upon collisions
 
 Running a loop-extruder simulation with the default length typically takes approximately a minute
 
-##main simulations
+## main simulations
 Python code forked from Hugo Brandao's [github.com/hbbrandao/bacterialSMCtrajectories](https://github.com/hbbrandao/bacterialSMCtrajectories)
 
 To run simulations, you need to install [polychrom](https://github.com/open2c/polychrom).
@@ -24,7 +24,7 @@ Depending on the number of loop-extruders, running a set of 5 simulation traject
 
 Simulation files can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.13908509)
 
-##analysis
+## analysis
 Based on my code for analysis in a previous paper [github.com/PLSysGitHub/loop-extrusion_with_replication_analysis](https://github.com/PLSysGitHub/loop-extrusion_with_replication_analysis)
 
 Analyze simulation data and then make plots
