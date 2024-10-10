@@ -1,0 +1,18 @@
+**/._.DS_Store
+**/.DS_Store
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+**/__pycache__/
+
+# Cython build artifacts
+*.c
+*.so
+
+# Distribution / Packaging
+**/.Python
+**/build/
+**/dist/
+**/*.egg-info/
