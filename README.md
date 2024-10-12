@@ -1,6 +1,6 @@
 ## Loop-extruder mediated stiffening can globally order bacterial chromosomes
 
-This repository contains code for running simulations of loop-extrusion in an *E. coli* like system, and for analyzing and plotting the resulting data.
+This repository contains code for running simulations of loop-extrusion in an *E. coli* like system for the manuscript [Loop-extruder mediated rigidity can globally order bacterial chromosomes](https://www.biorxiv.org/content/10.1101/2024.10.10.617531v1), and for analyzing and plotting the resulting data.
 
 The repository is structured as follows:
 
